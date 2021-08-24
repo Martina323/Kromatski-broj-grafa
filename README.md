@@ -8,7 +8,9 @@ grafu. U datoteci se u prvom retku nalazi broj vrhova grafa, zatim slijedi jedan
 matrica susjedstva. Svaki redak matrice susjedstva nalazi se u zasebnom retku datoteke, a svaka dva
 broja u jednom retku matrice susjedstva su odvojena jednim razmakom.
 Unesite ime datoteke: graf.txt
-sadržaj datoteke graf.txt-->8
+sadržaj datoteke graf.txt-->
+
+                            8
                             
                             0 1 0 1 1 0 0 1
                             1 0 1 0 0 0 0 0
